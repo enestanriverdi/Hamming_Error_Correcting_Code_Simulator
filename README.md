@@ -6,7 +6,7 @@ Sistem, girilen veriler için eşlik (parity) bitlerini hesaplayarak belleğe ya
 
 ---
 
-<img width="800" alt="arayuz" src="https://github.com/user-attachments/assets/d2a9b169-ccdd-48f8-86b2-0462c090d09e" />
+<img width="800" alt="arayuz" src="https://github.com/user-attachments/assets/74d1f44c-b9f7-4e94-9d50-8a452ddfe6d3" />
 
 ## 🚀 Özellikler
 
@@ -17,7 +17,7 @@ Sistem, girilen veriler için eşlik (parity) bitlerini hesaplayarak belleğe ya
 - **Otomatik Düzeltme (Corrector):** Tespit edilen hatalı bitin sistem tarafından otomatik olarak tersine çevrilerek orijinal verinin kurtarılması.
 - **Canlı Sistem Logları:** Yapılan tüm işlemlerin, hesaplamaların ve hata tespit/düzeltme uyarılarının anlık olarak takip edilebildiği entegre terminal ekranı.
 
-<img width="800" alt="hata" src="https://github.com/user-attachments/assets/f9e14bef-b638-4cee-996b-8f8e2c1c12ec" />
+<img width="800" alt="hata" src="https://github.com/user-attachments/assets/200ceb8f-4c4b-4aa4-93fd-ae0d49d47755" />
 
 ## 🛠️ Kullanılan Teknolojiler
 
